@@ -1,2 +1,5 @@
-# coursera_data_scientist_toolbox
-Coursera Data Scientist Toolbox Course
+# Coursera Data Scientist Toolbox Course
+## Week 2 Basic Markdown
+* List 1
+* List 2
+* List 3
